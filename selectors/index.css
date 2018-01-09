@@ -1,0 +1,32 @@
+body{
+    background-color: coral;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+#one{
+    
+    color: blue;
+}
+
+#two{
+    color: white;
+}
+
+#three{
+    color: red;
+}
+
+#four{
+    color: green;
+}
+
+.bordered{
+    border: 2px solid pink;
+}
+
+.background-black{
+    background-color: black;
+}
